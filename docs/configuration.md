@@ -102,6 +102,6 @@ The default value is `false`.
 #### Example
 ```json
 {
-    "disableResponseBroadcast": false
+    "disableResponseBroadcast": true
 }
 ```
